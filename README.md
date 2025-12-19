@@ -72,7 +72,7 @@ The application opens with a simple choice to either Encode or Decode data.
 ![Success Message](Screenshot%20(1788).png)
 
 #### 3. Decoding Phase (Retrieving Data)
-* **Input:** Select the generated Stego Image (`output.jpg`) and the Recipient's Private Key.
+* **Input:** Select the generated Stego Image (`output.png`) and the Recipient's Private Key.
 
 ![Decoding Input](Screenshot%20(1789).png)
 
